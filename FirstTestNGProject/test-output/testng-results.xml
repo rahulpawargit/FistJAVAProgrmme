@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24494" started-at="2017-01-31T18:28:25Z" finished-at="2017-01-31T18:28:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24494" started-at="2017-01-31T18:28:25Z" finished-at="2017-01-31T18:28:50Z">
+      <class name="firsttestngpackage.Multibrowser">
+        <test-method status="PASS" signature="firefox()[pri:0, instance:firsttestngpackage.Multibrowser@20e2cbe0]" name="firefox" duration-ms="14582" started-at="2017-01-31T23:58:25Z" finished-at="2017-01-31T23:58:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firefox -->
+        <test-method status="PASS" signature="ie()[pri:0, instance:firsttestngpackage.Multibrowser@20e2cbe0]" name="ie" duration-ms="2438" started-at="2017-01-31T23:58:40Z" finished-at="2017-01-31T23:58:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ie -->
+        <test-method status="PASS" signature="openpage()[pri:0, instance:firsttestngpackage.Multibrowser@20e2cbe0]" name="openpage" duration-ms="7433" started-at="2017-01-31T23:58:42Z" finished-at="2017-01-31T23:58:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openpage -->
+      </class> <!-- firsttestngpackage.Multibrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
